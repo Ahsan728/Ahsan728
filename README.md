@@ -1,6 +1,7 @@
 
 👨‍💻 About Me : 
-I love both electronics and CAD design. I’ve done many Hardware-based projects & developed some simple software application. I also work with Embedded system, IoT, Robotics and industrial automation. I like writing, sharing my knowledge with others freak guy. 😎
+A Master’s final year student passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. loves to design & develop innovative Robotics -Automation devices for the betterment of society. I like writing, sharing my knowledge with others freak guy. 😎
+
 - [My Website](https://www.ahsanslab.ml/)
 
 - 🔭 I’m currently working on FPGA
