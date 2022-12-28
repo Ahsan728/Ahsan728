@@ -1,6 +1,6 @@
 
 👨‍💻 About Me : 
-A Master’s final year student passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. loves to design & develop innovative Robotics -Automation devices for the betterment of society. I like writing, sharing my knowledge with others freak guy. 😎
+A Master’s final year student passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. loves to design & develop innovative Robotics -Automation devices for the betterment of society. I also like to writie and share my knowledge with others freak guy. 😎
 
 - [My Website](https://www.ahsanslab.ml/)
 
