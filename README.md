@@ -1,6 +1,6 @@
 
 👨‍💻 About Me : 
-Master’s final year student of [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/)currently working at [Schneider Electric](https://www.se.com/fr/fr/) as a part of my study end internship. I am passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. Love to design & develop innovative Robotics -Automation devices for the betterment of society. I also like to write and share my knowledge with others freak guy. 😎
+Master’s final year student of [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), currently working at [Schneider Electric](https://www.se.com/fr/fr/) as a part of my study end internship. I am passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. Love to design & develop innovative Robotics -Automation devices for the betterment of society. I also like to write and share my knowledge with others freak guy. 😎
 
 - [My Website](https://www.ahsanslab.ml/)
 
