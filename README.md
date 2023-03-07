@@ -1,6 +1,6 @@
 
 👨‍💻 About Me : 
-A Master’s final year student currently working at Schneider Electric as a part of my study end internship. I am passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. Love to design & develop innovative Robotics -Automation devices for the betterment of society. I also like to write and share my knowledge with others freak guy. 😎
+Master’s final year student currently working at Schneider Electric as a part of my study end internship. I am passionate to the Embedded System, FPGA, Micro-controller, electronics & Robotics. Love to design & develop innovative Robotics -Automation devices for the betterment of society. I also like to write and share my knowledge with others freak guy. 😎
 
 - [My Website](https://www.ahsanslab.ml/)
 
