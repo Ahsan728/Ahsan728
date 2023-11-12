@@ -4,8 +4,8 @@ I have recently completed my Master’s in Embedded Systems from [Grenoble INP E
 
 - [My Website](https://www.ahsanslab.ml/)
 
-- 🔭 I’m currently working on LTE-M with ADS131
-- 🌱 I’m currently learning VHDL | ROS | SoC | FPGA
+- 🔭 I’m currently working on ARM Cortex M, STM32 Firmware.
+- 🌱 I’m currently learning Assembly | SoC | FPGA
 - 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about MCU | Hardware | IoT | Robotics | Embedded System
 - 📫 How to reach me: [Github](https://github.com/Ahsan728), [Linkedin](https://www.linkedin.com/in/eeehsan94/), [Facebook](https://www.facebook.com/EEEhsan30/)
