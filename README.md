@@ -1,6 +1,6 @@
 
 👨‍💻 About Me : 
-I have recently completed my Master’s in Embedded Systems from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and the study end internship with [Schneider Electric](https://www.se.com/fr/fr/) by developing the Hardware and the Firmware of an Industry grade Data-Acquistion system. I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society. I also like to write and share my knowledge with others freak guy. 😎
+I have recently completed my Master’s in Embedded Systems from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and the internship with [Schneider Electric](https://www.se.com/fr/fr/) by developing the Hardware and the Firmware of an Industry grade Data-Acquistion system. I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society. I also like to write and share my knowledge with others freak guy. 😎
 
 - [My Website](https://www.ahsanslab.ml/)
 
