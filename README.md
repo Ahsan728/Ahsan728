@@ -5,36 +5,14 @@ I am working as a Research Software Engineer at Institute of Chemical Research o
 - [My Website](https://www.ahsanslab.ml/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eeehsan94/), [Facebook](https://www.facebook.com/EEEhsan30/)
 
+## My Skillset:
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-
-## My Skillset:
-### Wired Protocols
-- SPI, I2C, UART/USART, USB, Ethernet, I2C 
-
-### Wireless Protocols
-WiFi, BLE, LoRaWAN, NB-IoT, GSM/LTE, NFC/RFID
-
-### Network Protocols
-TCP/IP, UDP/IP
-
-### RTOS
-- FreeRTOS
-- 
-### Microcontroller & Microprocessor
-ESP32, ESP8266, STM32, AVR MCU, Raspberry pi, Zybo Zynq7
-
-### Hardware Development
-- Schematic Design, PCB design, Board assembly, Board testing, Power Profiling.
-
-### Electronic Equipment
-- 4-channel Oscilloscope
-- Multimeter
-- Logic Analyzer
-
+| Programming |Embedded C, Python, VHDL, MATLAB, PLC, ROS |
+| Microcontroller Families | ARM Cortex-A9, Artix-7, ATmega328P, STM32, RISC-V |
+| Communication Protocols |SPI, I2C, RS-232, USB, UART, BLE 5.0, RS-485, WiFi, MQTT, GSM, MODBUS, Ethernet. |
+| Hardware Development | Schematic Design, PCB design, Board assembly, Board testing, Power Profiling. |
+| Electronic Equipment | Oscilloscope, Multimeter, Logic Analyzer, SMD Soldering Station. |
 
 
 
