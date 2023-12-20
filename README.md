@@ -5,25 +5,25 @@ I have recently completed my Master’s in Embedded Systems from [Grenoble INP E
 - [My Website](https://www.ahsanslab.ml/)
 - 📫 How to reach me: [Github](https://github.com/Ahsan728), [Linkedin](https://www.linkedin.com/in/eeehsan94/), [Facebook](https://www.facebook.com/EEEhsan30/)
 
-###Wired Protocols
+### Wired Protocols
 - SPI, I2C, UART/USART, USB, Ethernet, I2C 
 
-###Wireless Protocols
+### Wireless Protocols
 WiFi, BLE, LoRaWAN, NB-IoT, GSM/LTE, NFC/RFID
 
-###Network Protocols
+### Network Protocols
 TCP/IP, UDP/IP
 
-###RTOS
+### RTOS
 - FreeRTOS
 - 
-###Microcontroller & Microprocessor
+### Microcontroller & Microprocessor
 ESP32, ESP8266, STM32, AVR MCU, Raspberry pi, Zybo Zynq7
 
-###Hardware Development
+### Hardware Development
 - Schematic Design, PCB design, Board assembly, Board testing, Power Profiling.
 
-###Electronic Equipment
+### Electronic Equipment
 - 4-channel Oscilloscope
 - Multimeter
 - Logic Analyzer
