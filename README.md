@@ -1,5 +1,5 @@
 
-👨‍💻 About Me : 
+## About Me : 
 I am working as a Research Software Engineer at [Institute of Chemical Research of Catalonia](https://www.iciq.org/) (ICIQ). Prior to this workplace I have completed my Master’s in Embedded Systems from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and the study end internship with [Schneider Electric](https://www.se.com/fr/fr/) by developing the Hardware and the Firmware of an Industry grade Data-Acquistion system. I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society.
 
 - [My Website](https://www.ahsanslab.ml/)
@@ -14,10 +14,10 @@ I am working as a Research Software Engineer at [Institute of Chemical Research 
 | Hardware Development | Schematic Design, PCB design, Board assembly, Board testing, Power Profiling. |
 | Electronic Equipment | Oscilloscope, Multimeter, Logic Analyzer, SMD Soldering Station. |
 
-# Sensors:
+### Sensors:
 LDR, PIR, HC-SR04, LM35, DS18B20, MPU-6050, ADXL345,DHT11, DHT22, MQ-3/7/135, TDS, Flex, pH, Moisture, TTP223, MAX30100
 
-# Actuators:
+### Actuators:
 Brushed DC Motors, Brushless DC Motors, Stepper Motors, AC Motors, Pneumatic Cylinders, Linear Solenoid, Piezoelectric.
 <!---
 Ahsan728/Ahsan728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
