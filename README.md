@@ -6,7 +6,6 @@ I am working as a Research Software Engineer at Institute of Chemical Research o
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eeehsan94/), [Facebook](https://www.facebook.com/EEEhsan30/)
 
 ## My Skillset:
-| Command | Description |
 | --- | --- |
 | Programming |Embedded C, Python, VHDL, MATLAB, PLC, ROS |
 | Microcontroller Families | ARM Cortex-A9, Artix-7, ATmega328P, STM32, RISC-V |
