@@ -7,7 +7,7 @@ I am working as a Research Software Engineer at [Institute of Chemical Research 
 
 ## My Skillset:
 | --- | --- |
-| --- | --- |
+
 | Programming |Embedded C, Python, VHDL, MATLAB, PLC, ROS |
 | Microcontroller Families | ARM Cortex-A9, Artix-7, ATmega328P, STM32, RISC-V |
 | Communication Protocols |SPI, I2C, RS-232, USB, UART, BLE 5.0, RS-485, WiFi, MQTT, GSM, MODBUS, Ethernet. |
