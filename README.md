@@ -13,7 +13,7 @@ I am working as a Research Software Engineer at [Institute of Chemical Research 
 | Communication Protocols |SPI, I2C, RS-232, USB, UART, BLE 5.0, RS-485, WiFi, MQTT, GSM, MODBUS, Ethernet. |
 | Hardware Development | Schematic Design, PCB design, Board assembly, Board testing, Power Profiling. |
 | Electronic Equipment | Oscilloscope, Multimeter, Logic Analyzer, SMD Soldering Station. |
-| Sensors | Temperature, Accelerometer, Gyroscope, Pressure, Proximity, Humidity, Light, Gas, Sound, IR, Touch, Motion, Moisture, Flex, GPS  |
+| Sensors | Temperature, Accelerometer, Gyroscope, Pressure, Proximity, Humidity, Light, Gas  |
 | Actuators | Oscilloscope, Multimeter, Logic Analyzer, SMD Soldering Station. |
 
 
