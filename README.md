@@ -1,6 +1,6 @@
 
 👨‍💻 About Me : 
-I am working as a Research Software Engineer at Institute of Chemical Research of Catalonia (ICIQ). Prior to this workplace I have completed my Master’s in Embedded Systems from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and the study end internship with [Schneider Electric](https://www.se.com/fr/fr/) by developing the Hardware and the Firmware of an Industry grade Data-Acquistion system. I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society.
+I am working as a Research Software Engineer at [Institute of Chemical Research of Catalonia](https://www.iciq.org/) (ICIQ). Prior to this workplace I have completed my Master’s in Embedded Systems from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and the study end internship with [Schneider Electric](https://www.se.com/fr/fr/) by developing the Hardware and the Firmware of an Industry grade Data-Acquistion system. I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society.
 
 - [My Website](https://www.ahsanslab.ml/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eeehsan94/), [Facebook](https://www.facebook.com/EEEhsan30/)
