@@ -19,6 +19,9 @@ LDR, PIR, HC-SR04, LM35, DS18B20, MPU-6050, ADXL345,DHT11, DHT22, MQ-3/7/135, TD
 
 ### Actuators:
 Brushed DC Motors, Brushless DC Motors, Stepper Motors, AC Motors, Pneumatic Cylinders, Linear Solenoid, Piezoelectric.
+
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Ahsan728}&theme={transparent}
 <!---
 Ahsan728/Ahsan728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
