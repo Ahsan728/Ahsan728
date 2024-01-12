@@ -26,3 +26,6 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 Ahsan728/Ahsan728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+              - name: GitHub-Profile-Summary-Cards
+                uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
+            
