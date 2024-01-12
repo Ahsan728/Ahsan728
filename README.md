@@ -29,3 +29,17 @@ You can click the Preview link to take a look at your changes.
               - name: GitHub-Profile-Summary-Cards
                 uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
             
+<div class="actions button-container">
+    <a href="#" class="button primary">Compose new</a>
+
+    <div class="button-group">
+        <a href="#" class="button primary">Archive</a>
+        <a href="#" class="button">Report spam</a>
+        <a href="#" class="button danger">Delete</a>
+    </div>
+
+    <div class="button-group minor-group">
+        <a href="#" class="button">Move to</a>
+        <a href="#" class="button">Labels</a>
+    </div>
+</div>
