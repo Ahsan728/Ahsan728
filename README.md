@@ -20,27 +20,6 @@ LDR, PIR, HC-SR04, LM35, DS18B20, MPU-6050, ADXL345,DHT11, DHT22, MQ-3/7/135, TD
 ### Actuators:
 Brushed DC Motors, Brushless DC Motors, Stepper Motors, AC Motors, Pneumatic Cylinders, Linear Solenoid, Piezoelectric.
 
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Ahsan728}&theme={transparent}
-
-              - name: GitHub-Profile-Summary-Cards
-                uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
-            
-<div class="actions button-container">
-    <a href="#" class="button primary">Compose new</a>
-
-    <div class="button-group">
-        <a href="#" class="button primary">Archive</a>
-        <a href="#" class="button">Report spam</a>
-        <a href="#" class="button danger">Delete</a>
-    </div>
-
-    <div class="button-group minor-group">
-        <a href="#" class="button">Move to</a>
-        <a href="#" class="button">Labels</a>
-    </div>
-</div>
-
 <!---
 Ahsan728/Ahsan728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
