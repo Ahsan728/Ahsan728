@@ -1,6 +1,6 @@
 
 ## About Me : 
-I am an Incoming Embedded Software Engineer. Last year I have completed my Master’s in Embedded Systems Security from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and an internship from [Schneider Electric](https://www.se.com/fr/fr/). I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society.
+I am an Embedded Software Engineer at ICIQ. Currently my focus is to develop the software for an intelligent parallel photoreactor with homogeneous light and high power density (up to 1.2 kW of 450 nm light) within Prof. Lloret's research group. I have completed my Master’s in Embedded Systems Security from [Grenoble INP Esisar](https://esisar.grenoble-inp.fr/), and an internship from [Schneider Electric](https://www.se.com/fr/fr/). I am passionate about embedded systems, FPGAs, microcontrollers, electronics, & robotics. I love to design and develop innovative robotics and automation devices for the betterment of society.
 
 - [My Website](https://sites.google.com/view/ahsanslab)
 
