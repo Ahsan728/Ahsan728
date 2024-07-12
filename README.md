@@ -14,7 +14,7 @@ I am an Embedded Software Engineer at ICIQ. Currently my focus is to develop the
 | Microcontroller Families | ARM Cortex-A9, Artix-7, ATmega328P, STM32, RISC-V |
 | Communication Protocols |SPI, I2C, RS-232, USB, UART, BLE 5.0, RS-485, WiFi, MQTT, GSM, MODBUS, Ethernet. |
 | Hardware Development | Schematic Design, PCB design, Board assembly, Board testing, Power Profiling. |
-| Electronic Equipment | Oscilloscope, Multimeter, Logic Analyzer, Electronic Load, Spectrum Analyzer, SMD Soldering Station. |
+| Electronic Equipment | Oscilloscope Analog & Digital (RIGOL MSO500 series), Multimeter, Logic Analyzer, Electronic Load (RIGOL DL3000), SMD Soldering Station (Weller WXR3). |
 
 ### Sensors:
 LDR, PIR, HC-SR04, LM35, DS18B20, MPU-6050, ADXL345,DHT11, DHT22, MQ-3/7/135, TDS, Flex, pH, Moisture, TTP223, MAX30100
